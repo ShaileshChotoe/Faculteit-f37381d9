@@ -1,0 +1,5 @@
+1 x 2 = 2;	$i x ($i + 1) = result;
+2 x 3 = 6;	result = result * ($i + 1);
+6 x 4 = 24;	result = result * ($i + 1);
+24 x 5 = 120;	result = result * ($i + 1);
+120 x 6 = 720;	result = result * ($i + 1);
